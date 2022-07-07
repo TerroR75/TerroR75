@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Kamil and I'm a self-taught developer. My <br>🌱 I’m currently learning JS, HTML, CSS, Node.js, Express and Git. Also I'm interested<br>in learning C# and Python.<br>
+I'm Kamil and I'm a self-taught developer. <br>🌱 I’m currently learning JS, HTML, CSS, Node.js, Express and Git. Also I'm interested<br>in learning C# and Python.<br>
 
 
 ## 🌐 Socials:
