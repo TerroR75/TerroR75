@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Kamil and I'm a self-taught developer. <br>🌱 I’m currently learning JS, HTML, CSS, Node.js, Express and Git. Also I'm interested<br>in learning C# and Python.<br>
+I'm Kamil and I'm a self-taught developer. <br>🌱 I’m currently learning JS, HTML, CSS, Node.js, Express, React and Git. Also I'm interested<br>in learning C# and Python.<br>
 Im extremely thankful to [The Odin Project](https://github.com/TheOdinProject) for their great community and top notch curriculum which helped me learn everything!
 
 
