@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>- Product Management App - https://github.com/TerroR75/junior-test<br>- PCStore - https://github.com/TerroR75/PCStore<br>- Cryptic - https://github.com/TerroR75/cryptic<br>- Portfolio Page - https://github.com/TerroR75/portfolio-page<br><br>🌱 I’m currently learning<br>- C# (.NET, EF), PHP, NodeJS<br>- React, Vue.js, Angular<br>- Jest<br><br>💬 Ask me about anything<br>kamilsulimierski@gmail.com<br>
+🔭 I’m currently working on:
+**I'm taking a break from my own projects (except portfolio) to focus on contributing to open source.**
+<br>- Product Management App - https://github.com/TerroR75/junior-test<br>- PCStore - https://github.com/TerroR75/PCStore<br>- Cryptic - https://github.com/TerroR75/cryptic<br>- Portfolio Page - https://github.com/TerroR75/portfolio-page<br><br>🌱 I’m currently learning<br>- C# (.NET, EF), PHP, NodeJS<br>- React, Vue.js, Angular<br>- Jest<br><br>💬 Ask me about anything<br>kamilsulimierski@gmail.com<br>
 
 
 ## 🌐 Socials:
